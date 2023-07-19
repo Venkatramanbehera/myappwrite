@@ -1,0 +1,22 @@
+{
+  "name": "myappwrite",
+  "version": "1.0.0",
+  "description": "this is the appwrite package i have been using in so many demo application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Venkatramanbehera/myappwrite.git)"
+  },
+  "keywords": [
+    "Appwrite"
+  ],
+  "author": "Venkat Raman Behera",
+  "license": "ISC",
+  "dependencies": {
+    "appwrite": "^11.0.0"
+  }
+}
