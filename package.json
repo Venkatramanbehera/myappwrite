@@ -1,6 +1,6 @@
 {
   "name": "myappwrite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is the appwrite package i have been using in so many demo application.",
   "main": "index.js",
   "scripts": {
